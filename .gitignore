@@ -87,3 +87,7 @@ $RECYCLE.BIN/
 
 # Code Agent infrastructure
 WARP.md
+test.py
+
+# .env files
+.env
